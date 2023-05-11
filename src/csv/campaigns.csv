@@ -1,0 +1,5 @@
+id,name,description,goal,expires_at,status,ownerId
+"0052cb9a-8383-469e-be2a-b536266e4866","campaign1","desc for campaign1",500,2022-12-25,active,1
+"be987449-0360-46ce-9049-6880b3bd9626","campaign2","desc for campaign2",700,2022-12-8,active,1
+"ffcba607-fbe6-4545-aad6-aed7480ce3d9","campaign3","desc for campaign3",800,2022-12-10,active,2
+"58463c1a-cc60-4b00-8151-3884877e176d","campaign4","desc for campaign4",700,2022-12-12,active,3
